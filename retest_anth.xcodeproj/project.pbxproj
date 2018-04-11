@@ -76,6 +76,7 @@
 		9A6D28A2204E983E0093D5B4 = {
 			isa = PBXGroup;
 			children = (
+				1FD2F727207E67500072B729 /* README.md */,
 				9A6D28C9204E98AE0093D5B4 /* Bridging-Header.h */,
 				1FD033F5207BD8DA006569C9 /* ABDHex.h */,
 				9A6D28AD204E983E0093D5B4 /* retest */,
@@ -95,7 +96,6 @@
 		9A6D28AD204E983E0093D5B4 /* retest */ = {
 			isa = PBXGroup;
 			children = (
-				1FD2F727207E67500072B729 /* README.md */,
 				1FD033F6207BD8FA006569C9 /* ABDHex.m */,
 				9A6D28AE204E983E0093D5B4 /* AppDelegate.swift */,
 				9A29AD43206E18F3002192FF /* ABDTxPowerViewController.swift */,
