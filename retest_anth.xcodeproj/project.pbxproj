@@ -348,6 +348,7 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/retest/ACSBluetooth",
 				);
+				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_BUNDLE_IDENTIFIER = com.hangersSeries.retest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "Bridging-Header.h";
@@ -368,6 +369,7 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/retest/ACSBluetooth",
 				);
+				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_BUNDLE_IDENTIFIER = com.hangersSeries.retest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "Bridging-Header.h";
