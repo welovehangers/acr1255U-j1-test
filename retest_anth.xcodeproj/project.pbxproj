@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		1FD033F5207BD8DA006569C9 /* ABDHex.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ABDHex.h; sourceTree = "<group>"; };
 		1FD033F6207BD8FA006569C9 /* ABDHex.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ABDHex.m; sourceTree = "<group>"; };
+		1FD2F727207E67500072B729 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		8B5F5CE1207D153E00D0344D /* test.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = test.h; sourceTree = "<group>"; };
 		8B5F5CE2207D153E00D0344D /* test.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = test.m; sourceTree = "<group>"; };
 		9A29AD3C206D394A002192FF /* ABDReaderViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ABDReaderViewController.swift; sourceTree = "<group>"; };
@@ -94,6 +95,7 @@
 		9A6D28AD204E983E0093D5B4 /* retest */ = {
 			isa = PBXGroup;
 			children = (
+				1FD2F727207E67500072B729 /* README.md */,
 				1FD033F6207BD8FA006569C9 /* ABDHex.m */,
 				9A6D28AE204E983E0093D5B4 /* AppDelegate.swift */,
 				9A29AD43206E18F3002192FF /* ABDTxPowerViewController.swift */,
